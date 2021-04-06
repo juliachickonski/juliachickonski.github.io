@@ -1,8 +1,8 @@
 body {
-  background-color: #cceeff;
+  background-color: rgb(204, 230, 255);
 }
 
 h1 {
-  color: #002233;
+  color: rgb(0, 34, 51);
   margin-left: 20px;
 }
